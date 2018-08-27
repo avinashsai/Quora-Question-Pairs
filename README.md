@@ -5,6 +5,7 @@ This is my solution to this competition https://www.kaggle.com/c/quora-question-
 
 
 ~~1.Manhattan LSTM Model~~
+
 2. Siamese Bidirectional LSTM Model with 3 Fully Connected Layers
 
 

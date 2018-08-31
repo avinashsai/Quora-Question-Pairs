@@ -8,4 +8,5 @@ This is my solution to this competition https://www.kaggle.com/c/quora-question-
 
 **Siamese 2 hidden LSTM Layers with 3 Dense Layers**(Train-Accuracy - 86%,Train-loss- 0.31 Validation-Accuracy - 82%,Validation-Loss- 0.4)
 
+**Siamese Dense model with 3 Dense Layers** (Train-Accuracy - 88%,Train-loss- 0.29)
 
